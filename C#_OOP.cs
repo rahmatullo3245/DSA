@@ -51,10 +51,10 @@ namespace OOP
         {
             Console.WriteLine($"Hello my name is {name} my ID {_id}");
         }
-       /* public void Person_info()
+        public void Person_info()
         {
             Console.WriteLine("Salom salom man donishju");
-        }*/
+        }
     }
     public class Subject
     {
